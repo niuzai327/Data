@@ -1,0 +1,171 @@
+<zones>
+    <zone name="info_zone">
+        <![CDATA[
+            <table width="896px" border="0" cellspacing="0" cellpadding="5" style="table-layout:fixed; margin-top:25px;">
+            <!-- <tr>
+            <td width="2%" height="28" bgcolor="#ffffff" align="center"><img width="6" height="19" src="images/gl_dot.gif"></td>
+            <td width="98%" bgcolor="#ffffff" class="new_font" valign="bottom">会员资料一览表</td>
+            </tr> -->
+            <tr>
+            <td >
+            <div class='normalT2'>
+            <table id="datalist" width="888px" border="0" cellpadding="0" cellspacing="1"  style="margin-bottom: 1px;">
+            <tr class="commBg" style="background: #f1f1f1;border-top:1px solid #bababa;border-bottom:1px solid #bababa;" >
+            <td align="center" class="bold" width="110px">会员卡号</td>
+            <td align="center" class="bold"  width="90px">会员类型</td>
+            <td align="center" class="bold" width="80px">姓名</td>
+            <td align="center" class="bold" width="160px">证件号码</td>
+            <td align="center" class="bold" width="90px">联系电话</td>
+            <td align="center" class="bold" width="130px">入会时间</td>
+            <td align="center" class="bold" width="60px">可用积分</td>
+            <td align="center" class="bold" width="120px">操作</td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('12063', '郑娟')" style="cursor: hand;" bgcolor="#FFFFFF" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('12063', '郑娟')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            12063
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">郑娟</td>
+            <td align="center" width="160px">500231198706012063</td>
+            <td align="center" width="90px">13549471577</td>
+            <td align="center" width="130px">2017-09-24 01:15:07.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('12063', '郑娟')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('90816', '谭玉林')" style="cursor: hand;" bgcolor="#F3F6F9" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('90816', '谭玉林')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            90816
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">谭玉林</td>
+            <td align="center" width="160px">422801198211090816</td>
+            <td align="center" width="90px">13416688880</td>
+            <td align="center" width="130px">2017-09-24 01:14:17.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('90816', '谭玉林')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('9521', '彭小先')" style="cursor: hand;" bgcolor="#FFFFFF" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('9521', '彭小先')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            9521
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">彭小先</td>
+            <td align="center" width="160px">522428197311163442</td>
+            <td align="center" width="90px">15015387699</td>
+            <td align="center" width="130px">2017-09-24 01:13:33.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('9521', '彭小先')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('074937', '李冬')" style="cursor: hand;" bgcolor="#F3F6F9" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('074937', '李冬')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            074937
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">李冬</td>
+            <td align="center" width="160px">430425198312074937</td>
+            <td align="center" width="90px">18681089305</td>
+            <td align="center" width="130px">2017-09-24 01:12:50.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('074937', '李冬')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('57350', '刘林锋')" style="cursor: hand;" bgcolor="#FFFFFF" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('57350', '刘林锋')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            57350
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">刘林锋</td>
+            <td align="center" width="160px">430528199210057350</td>
+            <td align="center" width="90px">18566132685</td>
+            <td align="center" width="130px">2017-09-24 01:11:25.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('57350', '刘林锋')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('98278', '黎明')" style="cursor: hand;" bgcolor="#F3F6F9" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('98278', '黎明')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            98278
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">黎明</td>
+            <td align="center" width="160px">500223198812098278</td>
+            <td align="center" width="90px">13412707129</td>
+            <td align="center" width="130px">2017-09-24 01:10:43.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('98278', '黎明')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('9517', '廖亚俊')" style="cursor: hand;" bgcolor="#FFFFFF" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('9517', '廖亚俊')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            9517
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">廖亚俊</td>
+            <td align="center" width="160px">43112719971010673X</td>
+            <td align="center" width="90px">13662803791</td>
+            <td align="center" width="130px">2017-09-24 00:51:23.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('9517', '廖亚俊')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('9519', '杨立新')" style="cursor: hand;" bgcolor="#F3F6F9" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('9519', '杨立新')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            9519
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">杨立新</td>
+            <td align="center" width="160px">430503197506205512</td>
+            <td align="center" width="90px">13537134125</td>
+            <td align="center" width="130px">2017-09-24 00:49:31.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('9519', '杨立新')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('110012191', '杨进冠')" style="cursor: hand;" bgcolor="#FFFFFF" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('110012191', '杨进冠')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            110012191
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">杨进冠</td>
+            <td align="center" width="160px"></td>
+            <td align="center" width="90px">13414957117</td>
+            <td align="center" width="130px">2017-09-23 23:24:13.0</td>
+            <td align="center" width="60px">500</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('110012191', '杨进冠')" class="button3 bg-3"/></td>
+            </tr>
+            <tr class="mooshineOver" onDblClick="dsdetail('231510', '周杰')" style="cursor: hand;" bgcolor="#F3F6F9" datasel=0>
+            <!-- <tr class=listOrder onDblClick="dsdetail('231510', '周杰')" style="cursor: hand;"> -->
+            <td  align="center" width="100px">
+            231510
+            </td>
+            <td align="center" width="80px">普通会员</td>
+            <td align="center" width="80px">周杰</td>
+            <td align="center" width="160px">430523198010231510</td>
+            <td align="center" width="90px">15061816959</td>
+            <td align="center" width="130px">2017-09-23 23:20:31.0</td>
+            <td align="center" width="60px">0</td>
+            <td align="center" width="120px"><input type='button' value='住店历史' onclick="dsdetail('231510', '周杰')" class="button3 bg-3"/></td>
+            </tr>
+            </table>
+            </div>
+            <table class="pageTable">
+            <tr>
+            <td><table width=100% border="0" cellpadding=4 cellspacing=0><tr><td width=30% align="center" style='color:#e5625c'>一共44140条&amp;nbsp;&amp;nbsp;每页10条&amp;nbsp;&amp;nbsp;第5页/共4414页</td><td width=7% align="center">[<a href="javascript:void(0);" style='color:#e5625c' onclick="return PageAjax('1','?','&amp;');">首页</a>]</td><td width=7% align='center'>[<a href='javascript:void(0);' style='color:#e5625c' onclick="return PageAjax('4','?','&amp;');">上一页</a>]</td><td width=7% align='center'>[<a href="javascript:void(0);" style='color:#e5625c' onclick="return PageAjax('6','?','&amp;');">下一页</a>]</td><td width=7% align='center'>[<a href="javascript:void(0);" style='color:#e5625c' onclick="return PageAjax('4414','?','&amp;');">尾页</a>]</td></table></td>
+            </tr>
+            </table>
+            <table width="100%">
+            <tr style="border-top:1px solid #bababa;">
+            <td class="red">提示：双击查看住店历史</td>
+            </tr>
+            </table>
+            </td>
+            </tr>
+            </table>
+        ]]>
+    </zone>
+    <script />
+</zones>
